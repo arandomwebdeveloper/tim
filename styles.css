@@ -10,4 +10,5 @@ body {
 img {
   border-style: outset;
   border-color: aquamarine;
+  border-radius: 999px;
 }
